@@ -4,4 +4,5 @@ Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry De
 4. Asrama Jati
 5. Asrama Mamre (Rusun 2)
 6. Asrama Nazareth (Rusun 3)
-7. Asrama Kana (Rusun 4). Letak asrama kapernaum dan silo dan kana berdekatan. letak asrama mamre dan nazareth berdekatan. dan asrama pniel dan jati berdekatan. gausah buat biaya nya. sistem pengambilannya dimana asrama yang berdekatan itu tidak bisa di hari yang sama pengambilannya. buat juga jumlah orang yang ada diasramanya.
+7. Asrama Kana (Rusun 4). Letak asrama kapernaum dan silo dan kana berdekatan.
+letak asrama mamre dan nazareth berdekatan. dan asrama pniel dan jati berdekatan. gausah buat biaya nya. sistem pengambilannya dimana asrama yang berdekatan itu tidak bisa di hari yang sama pengambilannya. buat juga jumlah orang yang ada diasramanya.
