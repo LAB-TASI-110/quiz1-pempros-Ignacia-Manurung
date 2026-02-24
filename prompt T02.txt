@@ -11,7 +11,3 @@ Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang dimi
 <p align="center">
   <img src="image/pola.jpeg" width="300">
 </p>
-
-
-NB:
-Kamu dapat menekan Ctrl + Shift + V untuk melihat soal dengan gambar atau kamu dapat menekan ctrl + Klik pada link gambar.

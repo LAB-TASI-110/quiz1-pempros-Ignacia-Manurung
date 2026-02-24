@@ -47,7 +47,3 @@ Format ouput : tampilkan struk pada terminal dengan format berikut
 <p align="center">
   <img src="image/output.jpeg" width="300">
 </p>
-
-
-NB:
-Kamu dapat menekan Ctrl + Shift + V untuk melihat soal dengan gambar atau kamu dapat ctrl + Klik pada link gambar.
