@@ -1,0 +1,7 @@
+Buatlah sebuah sistem yang dapat mendukung operasional sehari-hari di Laundry Del. Dimana ada 7 asrama, untuk pengambilan laundrynya ada pada hari senin sampai jumat dan untuk sabtu minggu itu tidak bisa dilakukannya pengambilan laundry bag pada tiap masing-masing asrama. Buatlah sistem dalam bahasa c yang mendukung sistem operasional sehari-hari Laundry Bag di IT DEL agar sistem Laundry Bag menjadi efektif. Adapun 7 asrama tersebut: 1. Asrama Kapernaum 
+2. Asrama Silo 
+3. Asrama Pniel 
+4. Asrama Jati
+5. Asrama Mamre (Rusun 2)
+6. Asrama Nazareth (Rusun 3)
+7. Asrama Kana (Rusun 4). Letak asrama kapernaum dan silo dan kana berdekatan. letak asrama mamre dan nazareth berdekatan. dan asrama pniel dan jati berdekatan. gausah buat biaya nya. sistem pengambilannya dimana asrama yang berdekatan itu tidak bisa di hari yang sama pengambilannya. buat juga jumlah orang yang ada diasramanya.
